@@ -2,7 +2,7 @@
 Simple file for introduction of IF ELSE ELIF
 """
 
-my_variable: int = 18
+my_variable: int = 19
 
 # --------------------------------
 # If / Else Statements
@@ -15,9 +15,13 @@ else:
 
 # if we re-asign a value to the variable: 
 
-my_variable = 15
+my_variable = 46
 
-# and re-write same code woth print functuion. Here we as an example
+# --------------------------------
+# Alternative - Without 'Else' Block
+# --------------------------------
+
+# and re-write same code with print functuion. Here we as an example
 # we will also remove "else" block - should still work properly but 
 # remember to pull the next line one Tab back!
 
