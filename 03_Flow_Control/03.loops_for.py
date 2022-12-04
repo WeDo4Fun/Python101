@@ -8,6 +8,5 @@ Creating Loops usign 'for'
 
 name: str = "Mehmet"
 
-for i in name:
-    print(i)
-    
+for charachter in name:
+    print(charachter)

@@ -1,5 +1,20 @@
 """
 Expanding if / elif / else with and/or
+
+AND
+----------
+True and True   => True
+True and False  => False
+False and True  => False
+False and Flase => False
+
+OR
+----------
+True or True   => True
+True or False  => True
+False or True  => True
+False or Flase => False
+
 """
 
 inp_number: int = int(input("Please enter a number between 0-30: "))
