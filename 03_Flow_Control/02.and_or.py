@@ -27,9 +27,4 @@ elif inp_number > 20 and inp_number < 30:
     print(f"Your number is bigger than 20, color is {color_choice}")
 else:
     print (f"the number you chose is in not betwen 0 and 30!, color is {color_choice}.")
-
-
-
-
-
-time_on_video: str = "1:06:22"
+# time_on_video: str = "1:06:22"
